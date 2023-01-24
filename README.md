@@ -13,3 +13,5 @@ No data - e49e02cf31b64793111f05bb234dcd5b
 No data - fffa01014048ae7a329e09d6ad5323dc
 
 No data - 63edb166b7258b59abcf9d6c33d93bcd
+
+Made in Python 3.10
